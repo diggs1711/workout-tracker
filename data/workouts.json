@@ -1,0 +1,33 @@
+{
+  "workouts": [
+    {
+      "date": "2026-06-14",
+      "notes": "Initial baseline from goals.md",
+      "exercises": [
+        {"name": "DB Press", "weight": 22.5, "sets": [6, 6, 6], "volume": 405},
+        {"name": "Leg Press", "weight": 55, "sets": [8, 8, 8], "volume": 1320},
+        {"name": "Lat Pulldown", "weight": 40, "sets": [8, 8, 8], "volume": 960}
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "notes": "Lift A - New cycle: Leg Press bumped to 75, RDL started",
+      "exercises": [
+        {"name": "DB Press", "weight": 22.5, "sets": [6, 6, 6], "volume": 405},
+        {"name": "Leg Press", "weight": 75, "sets": [5, 5, 5], "volume": 1125},
+        {"name": "Lat Pulldown", "weight": 47, "sets": [5, 5, 5], "volume": 705},
+        {"name": "RDL", "weight": 12, "sets": [5, 5, 5], "volume": 180}
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "notes": "Lift B - Progressive overload step: 2x7+1x6 / 2x6+1x5 across",
+      "exercises": [
+        {"name": "DB Press", "weight": 22.5, "sets": [7, 7, 7], "volume": 472.5},
+        {"name": "Leg Press", "weight": 75, "sets": [6, 6, 6], "volume": 1350},
+        {"name": "Lat Pulldown", "weight": 47, "sets": [6, 6, 6], "volume": 846},
+        {"name": "RDL", "weight": 12, "sets": [6, 6, 6], "volume": 216}
+      ]
+    }
+  ]
+}
