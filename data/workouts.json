@@ -38,6 +38,16 @@
         {"name": "Lat Pulldown", "weight": 47, "sets": [7, 6, 6], "volume": 893},
         {"name": "RDL", "weight": 12, "sets": [7, 6, 6], "volume": 228}
       ]
+    },
+    {
+      "date": "2026-07-09",
+      "notes": "DB Press 2x8+1x7, rest 2x7+1x6",
+      "exercises": [
+        {"name": "DB Press", "weight": 22.5, "sets": [8, 8, 7], "volume": 517.5},
+        {"name": "Leg Press", "weight": 75, "sets": [7, 7, 6], "volume": 1500},
+        {"name": "Lat Pulldown", "weight": 47, "sets": [7, 7, 6], "volume": 940},
+        {"name": "RDL", "weight": 12, "sets": [7, 7, 6], "volume": 240}
+      ]
     }
   ]
 }
