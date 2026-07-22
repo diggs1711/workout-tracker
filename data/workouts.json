@@ -48,6 +48,15 @@
         {"name": "Lat Pulldown", "weight": 47, "sets": [7, 7, 6], "volume": 940},
         {"name": "RDL", "weight": 12, "sets": [7, 7, 6], "volume": 240}
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "notes": "Short session. DB Press bumped to 25kg. Added pull-ups.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [5, 5, 5], "volume": 375},
+        {"name": "RDL", "weight": 12, "sets": [8, 7, 7], "volume": 264},
+        {"name": "Pull-ups", "weight": 0, "sets": [5, 5], "volume": 0}
+      ]
     }
   ]
 }
