@@ -57,6 +57,26 @@
         {"name": "RDL", "weight": 12, "sets": [8, 7, 7], "volume": 264},
         {"name": "Pull-ups", "weight": 0, "sets": [5, 5], "volume": 0}
       ]
+    },
+    {
+      "date": "2026-08-11",
+      "notes": "Full session - DB Press 2x6+1x5, Leg Press & Lat Pulldown 2x8+1x7, RDL 3x8",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [6, 6, 5], "volume": 425},
+        {"name": "Leg Press", "weight": 75, "sets": [8, 8, 7], "volume": 1725},
+        {"name": "Lat Pulldown", "weight": 47, "sets": [8, 8, 7], "volume": 1081},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "notes": "Cycle complete: DB Press 3x6@25, Leg Press & Lat Pulldown 3x8. RDL stayed at 12kg.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [6, 6, 6], "volume": 450},
+        {"name": "Leg Press", "weight": 75, "sets": [8, 8, 8], "volume": 1800},
+        {"name": "Lat Pulldown", "weight": 47, "sets": [8, 8, 8], "volume": 1128},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
     }
   ]
 }
