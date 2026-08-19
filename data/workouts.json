@@ -77,6 +77,14 @@
         {"name": "Lat Pulldown", "weight": 47, "sets": [8, 8, 8], "volume": 1128},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-08-19",
+      "notes": "Short session. Lat Pulldown started new cycle at 54kg. Leg Press & RDL not done.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [7, 6, 6], "volume": 475},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [5, 5, 5], "volume": 810}
+      ]
     }
   ]
 }
