@@ -94,6 +94,15 @@
         {"name": "Lat Pulldown", "weight": 54, "sets": [5, 5], "volume": 540},
         {"name": "Leg Press", "weight": 85, "sets": [5, 5], "volume": 850}
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "notes": "20-min session. 2 sets each. RDL not done.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [7, 7], "volume": 350},
+        {"name": "Leg Press", "weight": 85, "sets": [6, 5], "volume": 935},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [6, 5], "volume": 594}
+      ]
     }
   ]
 }
