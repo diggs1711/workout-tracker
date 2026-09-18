@@ -103,6 +103,16 @@
         {"name": "Leg Press", "weight": 85, "sets": [6, 5], "volume": 935},
         {"name": "Lat Pulldown", "weight": 54, "sets": [6, 5], "volume": 594}
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "notes": "Full 3-set session. RDL back in.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [7, 7, 7], "volume": 525},
+        {"name": "Leg Press", "weight": 85, "sets": [6, 5, 5], "volume": 1360},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [6, 5, 5], "volume": 864},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
     }
   ]
 }
