@@ -122,6 +122,14 @@
         {"name": "Leg Press", "weight": 85, "sets": [6, 6], "volume": 1020},
         {"name": "Lat Pulldown", "weight": 54, "sets": [6, 6], "volume": 648}
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "notes": "Back after time off. DB Press & Lat Pulldown 3x6. Leg Press & RDL not done.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [6, 6, 6], "volume": 450},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [6, 6, 6], "volume": 972}
+      ]
     }
   ]
 }
