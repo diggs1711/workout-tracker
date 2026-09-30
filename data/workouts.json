@@ -113,6 +113,15 @@
         {"name": "Lat Pulldown", "weight": 54, "sets": [6, 5, 5], "volume": 864},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "notes": "Not feeling well - 2 sets each, RDL dropped.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [8, 7], "volume": 375},
+        {"name": "Leg Press", "weight": 85, "sets": [6, 6], "volume": 1020},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [6, 6], "volume": 648}
+      ]
     }
   ]
 }
