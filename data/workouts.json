@@ -130,6 +130,15 @@
         {"name": "DB Press", "weight": 25, "sets": [6, 6, 6], "volume": 450},
         {"name": "Lat Pulldown", "weight": 54, "sets": [6, 6, 6], "volume": 972}
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "notes": "Lat Pulldown 3x7 and Leg Press 3x6 - both ahead of target. DB Press 1x7+2x6. RDL not done.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [7, 6, 6], "volume": 475},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [7, 7, 7], "volume": 1134},
+        {"name": "Leg Press", "weight": 85, "sets": [6, 6, 6], "volume": 1530}
+      ]
     }
   ]
 }
