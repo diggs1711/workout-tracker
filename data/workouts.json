@@ -149,6 +149,16 @@
         {"name": "Leg Press", "weight": 85, "sets": [7, 6, 6], "volume": 1615},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "notes": "Full session as prescribed. DB Press 3x7 complete.",
+      "exercises": [
+        {"name": "DB Press", "weight": 25, "sets": [7, 7, 7], "volume": 525},
+        {"name": "Lat Pulldown", "weight": 54, "sets": [8, 8, 7], "volume": 1242},
+        {"name": "Leg Press", "weight": 85, "sets": [7, 7, 6], "volume": 1700},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
     }
   ]
 }
