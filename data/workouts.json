@@ -159,6 +159,16 @@
         {"name": "Leg Press", "weight": 85, "sets": [7, 7, 6], "volume": 1700},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "notes": "Bench Press replaced DB Press. Lat Pulldown new cycle at 61kg.",
+      "exercises": [
+        {"name": "Bench Press", "weight": 60, "sets": [6, 5, 5], "volume": 1020},
+        {"name": "Lat Pulldown", "weight": 61, "sets": [5, 5, 5], "volume": 915},
+        {"name": "Leg Press", "weight": 85, "sets": [8, 7, 7], "volume": 1870},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
     }
   ]
 }
