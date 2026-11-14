@@ -179,6 +179,16 @@
         {"name": "Leg Press", "weight": 85, "sets": [8, 8, 7], "volume": 1955},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "notes": "DB Press back in at new weight 27.5kg. Leg Press 3x8 complete.",
+      "exercises": [
+        {"name": "DB Press", "weight": 27.5, "sets": [5, 5, 5], "volume": 412.5},
+        {"name": "Lat Pulldown", "weight": 61, "sets": [6, 6, 5], "volume": 1037},
+        {"name": "Leg Press", "weight": 85, "sets": [8, 8, 8], "volume": 2040},
+        {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
+      ]
     }
   ]
 }
