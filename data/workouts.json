@@ -189,6 +189,15 @@
         {"name": "Leg Press", "weight": 85, "sets": [8, 8, 8], "volume": 2040},
         {"name": "RDL", "weight": 12, "sets": [8, 8, 8], "volume": 288}
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "notes": "Bench Press instead of DB Press - 60kg cycle complete. Leg Press new weight 95kg. Pull-ups 3x5. Lat Pulldown & RDL not done.",
+      "exercises": [
+        {"name": "Bench Press", "weight": 60, "sets": [6, 6, 6], "volume": 1080},
+        {"name": "Leg Press", "weight": 95, "sets": [5, 5, 5], "volume": 1425},
+        {"name": "Pull-ups", "weight": 0, "sets": [5, 5, 5], "volume": 0}
+      ]
     }
   ]
 }
