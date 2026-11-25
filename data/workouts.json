@@ -206,6 +206,15 @@
         {"name": "Bench Press", "weight": 60, "sets": [7, 6, 6], "volume": 1140},
         {"name": "Lat Pulldown", "weight": 61, "sets": [6, 6, 6], "volume": 1098}
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "notes": "Bench Press, Lat Pulldown & Leg Press. No pull-ups or RDL.",
+      "exercises": [
+        {"name": "Bench Press", "weight": 60, "sets": [7, 7, 6], "volume": 1200},
+        {"name": "Lat Pulldown", "weight": 61, "sets": [7, 6, 6], "volume": 1159},
+        {"name": "Leg Press", "weight": 95, "sets": [6, 5, 5], "volume": 1520}
+      ]
     }
   ]
 }
