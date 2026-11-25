@@ -215,6 +215,14 @@
         {"name": "Lat Pulldown", "weight": 61, "sets": [7, 6, 6], "volume": 1159},
         {"name": "Leg Press", "weight": 95, "sets": [6, 5, 5], "volume": 1520}
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "notes": "Bench Press 3x7 complete. Lat Pulldown short of target at 7/6/6. Leg Press & RDL not done.",
+      "exercises": [
+        {"name": "Bench Press", "weight": 60, "sets": [7, 7, 7], "volume": 1260},
+        {"name": "Lat Pulldown", "weight": 61, "sets": [7, 6, 6], "volume": 1159}
+      ]
     }
   ]
 }
